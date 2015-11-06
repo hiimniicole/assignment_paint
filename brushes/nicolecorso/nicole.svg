@@ -3,16 +3,8 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="504px" height="360px" viewBox="0 0 504 360" enable-background="new 0 0 504 360" xml:space="preserve">
-<rect x="-301.058" y="5.428" transform="matrix(-0.7071 -0.7071 0.7071 -0.7071 -522.3933 -78.3997)" fill="#FFFFFF" width="47.249" height="127.124"/>
-<path fill="#FFFFFF" d="M-320.625-33l-59.625,59.625c-9,7.875-9,22.5,0,30.375L-351,86.25l90-90L-290.25-33
-	C-298.125-42-312.75-42-320.625-33z"/>
-<g>
-	<path fill="#FFFFFF" d="M-106.875,300h59.625v-59.625C-79.875,240.375-106.875,267.375-106.875,300z"/>
-	<path fill="#FFFFFF" d="M-47.25,224.625V210L-216,41.25l-90,90L-137.25,300h14.625C-122.625,258.375-88.875,224.625-47.25,224.625z
-		"/>
-</g>
-<rect x="140.5" y="68.99" fill="#FFFFFF" width="116.819" height="102.912"/>
-<rect x="218.379" y="210.842" fill="#FFFFFF" width="70.925" height="63.973"/>
-<rect x="289.305" y="120.446" fill="#FFFFFF" width="59.801" height="51.456"/>
-<rect x="335.199" y="210.842" fill="#FFFFFF" width="58.409" height="44.503"/>
+<circle opacity="0.65" fill="#FFFFFF" enable-background="new    " cx="251" cy="180" r="157.5"/>
+<circle opacity="0.65" fill="#FFFFFF" enable-background="new    " cx="363.5" cy="180" r="135"/>
+<circle opacity="0.65" fill="#FFFFFF" enable-background="new    " cx="251" cy="180" r="112.5"/>
+<ellipse fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" cx="177" cy="97" rx="51.5" ry="74.5"/>
 </svg>

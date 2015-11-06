@@ -25,7 +25,6 @@ fill(forecolor);
 	if (mouseIsPressed) {
 rect(mouseX, mouseY, 30, 30);
 rect(mouseY, mouseX, 30, 30);
-//ellipse (mouseX, mouseY, 10,10);
 
 	}
 };
